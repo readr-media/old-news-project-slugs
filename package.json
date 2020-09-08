@@ -1,12 +1,13 @@
 {
   "name": "@readr-media/old-news-project-slugs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "type": "module",
   "main": "./index.cjs",
   "exports": {
     "import": "./index.mjs",
     "require": "./index.cjs"
   },
+  "typings": "./index.d.ts",
   "repository": "https://github.com/readr-media/old-news-project-slugs",
   "author": "READr Media"
 }
