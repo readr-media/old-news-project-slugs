@@ -1,4 +1,4 @@
-module.exports = [
+const READR_MEDIA_OLD_PROJECT_SLUGS = [
   'chenuen',
   'disinformation',
   'dollclaw',
@@ -46,3 +46,37 @@ module.exports = [
   'covid19-disinformation',
   'eid',
 ];
+
+const MIRROR_MEDIA_OLD_PROJECT_SLUGS = [
+  'burkinafasogallery',
+  'burkinafaso',
+  'allenlien',
+  'taiwan_diplomatic_relations',
+  'legendhou-painting',
+  'legendhou-gallery',
+  'legendhou',
+  'airquality',
+  'valentines_day',
+  'transport-industry',
+  'transport-industry-mrt',
+  'lottery',
+  'mining',
+  'hot-sugar',
+  '20170801aboriginal',
+  'universiade2017-chenshihchieh',
+  'universiade2017-chenchieh',
+  'universiade2017-chenyenyu',
+  'universiade2017-kungyun',
+  'universiade2017',
+  'whitecollar',
+  'real-name',
+  'poetry',
+  'rent-king',
+  'rent-house',
+  'fertility',
+];
+
+module.exports = {
+  READR_MEDIA_OLD_PROJECT_SLUGS,
+  MIRROR_MEDIA_OLD_PROJECT_SLUGS,
+};

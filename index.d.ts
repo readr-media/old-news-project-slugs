@@ -1,2 +1,4 @@
-declare const oldNewsProjectSlugs: string[];
-export default oldNewsProjectSlugs;
+declare const READR_MEDIA_OLD_PROJECT_SLUGS: string[];
+declare const MIRROR_MEDIA_OLD_PROJECT_SLUGS: string[];
+
+export { READR_MEDIA_OLD_PROJECT_SLUGS, MIRROR_MEDIA_OLD_PROJECT_SLUGS };

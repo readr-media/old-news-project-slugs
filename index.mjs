@@ -1,1 +1,4 @@
-export { default } from './index.cjs';
+export {
+  READR_MEDIA_OLD_PROJECT_SLUGS,
+  MIRROR_MEDIA_OLD_PROJECT_SLUGS,
+} from './index.cjs';
